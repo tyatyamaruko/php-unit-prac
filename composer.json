@@ -1,0 +1,17 @@
+{
+    "name": "user/unit-test",
+    "autoload": {
+        "psr-4": {
+            "User\\UnitTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "karita",
+            "email": "karita@souhoudou.jp"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
